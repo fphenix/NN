@@ -1,0 +1,4 @@
+enum RandomMode {
+  BINARY,
+  CENTERED
+}
